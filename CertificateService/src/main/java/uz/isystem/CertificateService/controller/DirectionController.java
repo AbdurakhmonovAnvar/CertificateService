@@ -13,7 +13,7 @@ import uz.isystem.CertificateService.service.DirectionService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/certificate")
+@RequestMapping("/direction")
 @AllArgsConstructor
 public class DirectionController {
     private DirectionService directionService;

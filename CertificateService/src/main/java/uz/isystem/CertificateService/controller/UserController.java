@@ -10,7 +10,7 @@ import uz.isystem.CertificateService.service.UserService;
 import java.util.List;
 
 @RestController
-@RequestMapping("/certificate")
+@RequestMapping("/users")
 @AllArgsConstructor
 public class UserController {
 
